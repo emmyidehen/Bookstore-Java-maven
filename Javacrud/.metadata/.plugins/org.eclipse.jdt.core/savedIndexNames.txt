@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Fidon Tech\Videos\python\Django\Dev Projects\Java\Javacrud\.metadata\.plugins\org.eclipse.jdt.core
+2470783977.index
+1889378161.index
